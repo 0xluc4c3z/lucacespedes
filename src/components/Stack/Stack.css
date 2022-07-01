@@ -1,0 +1,23 @@
+
+
+#stack{
+  font-size: 15px;
+  color: #a0a0a0;
+  margin-bottom: 15px;
+  margin-top: 60px;
+}
+
+#container-stack{
+  display: flex;
+  justify-content: space-between;
+}
+
+#box-stack{
+  text-align: start;
+  width: 170px;
+  height: 130px;
+}
+
+.item{
+  color: #a0a0a0;
+}
