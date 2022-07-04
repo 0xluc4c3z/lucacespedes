@@ -4,9 +4,8 @@ export const Aspirations = () => {
   return (
     <div>
       <p id='stack'>Aspirations</p>
-      <label>I specialize in developing and maintaining smart contracts; 
-        safe, efficient, and that meet your requirements. Low-level knowledge of EVM. 
-        Low-level knowledge of EVM. Low-level knowledge of.</label>
+      <label>I aspire to never stop learning in an environment where scalable web3 projects are developed, 
+        especially in a work area, so that I can dedicate as much time as possible to it.</label>
     </div>
   )
 }

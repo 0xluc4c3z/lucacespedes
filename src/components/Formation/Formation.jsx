@@ -4,9 +4,8 @@ export const Formation = () => {
   return (
     <div>
       <p id='stack'>Formation</p>
-      <label>I specialize in developing and maintaining smart contracts; 
-        safe, efficient, and that meet your requirements. Low-level knowledge of EVM. 
-        Low-level knowledge of EVM. Low-level knowledge of.</label>
+      <label>I completed 3 years of a systems engineering degree, but due to the lack of programming education, 
+        I started to learn by myself, through courses, videos and forums. And for some time now my learning focus has been on blockchain and smart contracts. </label>
     </div>
   )
 }

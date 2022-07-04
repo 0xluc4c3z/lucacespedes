@@ -4,9 +4,8 @@ export const Contact = () => {
   return (
     <div>
       <p id='stack'>Contact Me</p>
-      <label>I specialize in developing and maintaining smart contracts; 
-        safe, efficient, and that meet your requirements. Low-level knowledge of EVM. 
-        Low-level knowledge of EVM. Low-level knowledge of.</label>
+      <label>you can contact me via mail: <br />lucacespedes00@gmail.com <br />You can also look for me on linkedin and github, there I upload what I'm working on lately.
+      <br /><a href="https://www.linkedin.com/in/lucacezdev/">https://www.linkedin.com/in/lucacezdev/</a><br /> <a href="https://github.com/Lucacez">https://github.com/Lucacez</a></label>
     </div>
   )
 }
