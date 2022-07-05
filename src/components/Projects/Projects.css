@@ -18,6 +18,42 @@
 
 #box-stack{
   text-align: start;
-  width: 170px;
+  width: 100%;
   height: 130px;
+}
+
+/**Movil**/
+
+@media (max-width: 767px) {
+
+  .projects-cont{
+    --gradient-size-start: 24px;
+    --gradient-size-end: 20%;
+  }
+
+  .projects-div{
+    --scrollbar-padding: 40px;
+    --scrollbar-size: 6px;
+    --left: calc((100vw - var(640px)) / 2);
+    --gradient-size-start: var(max(314px,env(safe-area-inset-left)));
+    --gradient-size-end: 10px;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    width: 80vw;
+    display: flex;
+    overflow-x: auto;
+    padding-bottom: 40px;
+    padding-left: max(24px,env(safe-area-inset-left));
+    padding-right: max(24px,env(safe-area-inset-right));
+    -webkit-mask-image: linear-gradient(to right,transparent 0,#000 var(24px),#000 calc(100% - var(20%)),transparent 100%);
+    mask-image: linear-gradient(to right,transparent 0,#000 var(--gradient-size-start),#000 calc(100% - var(--gradient-size-end)),transparent 100%);
+  }
+}
+
+
+/**Tablet**/
+
+@media (min-width: 768px) and (max-width: 990px) {
+  
 }

@@ -1,0 +1,7 @@
+/**Movil**/
+
+@media (max-width: 767px) {
+  .div-for{
+    width: 90%;
+  }
+}

@@ -10,3 +10,13 @@ h1{
   margin-bottom: 12px;
 }
 
+
+/**Movil**/
+
+@media (max-width: 767px) {
+  #home{
+    margin-top: 200px;
+    width: 90%;
+  }
+  
+}
