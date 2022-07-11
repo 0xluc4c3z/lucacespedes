@@ -31,7 +31,7 @@ export const Projects = () => {
             <p className='item item-2'>Personal blog where I write about solidity and blockhain.</p>
           </div>
           <div id='box-stack'>
-            <a className='name' href='https://github.com/Lucacez/electionsol' target="_blank">Election <RiExternalLinkLine /></a>
+            <a className='name' href='https://github.com/Lucacez/electionfrontend' target="_blank">Election <RiExternalLinkLine /></a>
             <p className='item item-2'>Decentralized elections using a NTT (non-transferable token) for voting</p>
 
           </div>
