@@ -12,13 +12,13 @@ export const Projects = () => {
         <p id='stack'>Projects</p>
         <div id='container-stack'>
           <div id='box-stack'>
-            <a className='name' href='https://github.com/Lucacez/challenge' target="_blank">ETHPool <RiExternalLinkLine /></a>
+            <a className='name' href='https://github.com/Lucacez/ETHPool' target="_blank">ETHPool <RiExternalLinkLine /></a>
             <p className='item item-2'>Service where people can 
             deposit ETH and receive weekly rewards.</p>
           </div>
           <div id='box-stack'>
-            <a className='name' href='https://github.com/Lucacez/Germany06NFT' target="_blank">Germany06NFT <RiExternalLinkLine /></a>
-            <p className='item item-2'>Collection of nft, with your Marketplace, and Stake</p>
+            <a className='name' href='https://github.com/Lucacez/NFT-Bank-Bills' target="_blank">NFT Bank Bills <RiExternalLinkLine /></a>
+            <p className='item item-2'>NFTs representing the coins and banknotes with different denominations.</p>
           </div>
           <div id='box-stack'>
             <a className='name' href='https://github.com/Lucacez/Multisig-Wallet' target="_blank">Multisig Wallet <RiExternalLinkLine /></a>
@@ -27,11 +27,11 @@ export const Projects = () => {
         </div>
         <div id='container-stack'>
           <div id='box-stack'>
-            <a className='name' href='https://www.lucacez.com/' target="_blank">Blog <RiExternalLinkLine /></a>
+            <a className='name' href='https://www.lucacez.com/' target="_blank">NFT Auctions <RiExternalLinkLine /></a>
             <p className='item item-2'>Personal blog where I write about solidity and blockhain.</p>
           </div>
           <div id='box-stack'>
-            <a className='name' href='https://github.com/Lucacez/electionfrontend' target="_blank">Election <RiExternalLinkLine /></a>
+            <a className='name' href='https://github.com/Lucacez/electionfrontend' target="_blank">ElectionsSol <RiExternalLinkLine /></a>
             <p className='item item-2'>Decentralized elections using a NTT (non-transferable token) for voting</p>
 
           </div>

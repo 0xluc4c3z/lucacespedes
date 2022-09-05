@@ -10,7 +10,7 @@ export const Stack = () => {
           <label>Blockchain</label>
           <p className='item'>Solidity</p>
           <p className='item'>Hardhat</p>
-          <p className='item'>Truffle</p>
+          <p className='item'>Foundry</p>
         </div>
         <div id='box-stack'>
           <label>Frontend</label>
