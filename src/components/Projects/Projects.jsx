@@ -27,12 +27,12 @@ export const Projects = () => {
         </div>
         <div id='container-stack'>
           <div id='box-stack'>
-            <a className='name' href='https://www.lucacez.com/' target="_blank">NFT Auctions <RiExternalLinkLine /></a>
-            <p className='item item-2'>Personal blog where I write about solidity and blockhain.</p>
+            <a className='name' href='https://github.com/Lucacez/NFT-Auction' target="_blank">NFT Auctions <RiExternalLinkLine /></a>
+            <p className='item item-2'>Minted nfts are sold through auctions (proxy and DAO in process).</p>
           </div>
           <div id='box-stack'>
             <a className='name' href='https://github.com/Lucacez/electionfrontend' target="_blank">ElectionsSol <RiExternalLinkLine /></a>
-            <p className='item item-2'>Decentralized elections using a NTT (non-transferable token) for voting</p>
+            <p className='item item-2'>Decentralized elections using a NTT (non-transferable token) for voting.</p>
 
           </div>
           <div id='box-stack'>
